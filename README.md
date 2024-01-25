@@ -1,2 +1,16 @@
-# News App
- I have developed a News App in Flutter that utilizes an API to showcase various channels such as CNN, BBC, Al-Jazeera, Reuters, etc., offering news across different categories like General, Entertainment, Health, Sports, Tech, and Business.
+# news
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
